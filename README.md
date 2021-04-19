@@ -1,2 +1,2 @@
 # AVR
-Projets those were made by myself.
+AVR projets those were made by myself.
